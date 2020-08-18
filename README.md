@@ -8,3 +8,5 @@ Using JavaScript, the data.js file filled with sighting information such as date
 For additional visual appeal, a style.css file has been added as well as Bootstrap components to the index.html page. 
 
 Preview the index.html page below:
+
+<img src="ReadMe_Images/webpage.PNG" height="500">
